@@ -5,5 +5,5 @@
   - smaller(String s) : target number < s
   - String get(Pressure | void)
   - Pressure substract(String sub) : target number - sub = target number
-  - Pressure add(string pn) : target number + sub = terget number
+  - Pressure add(string pn) : target number + pn = terget number
   
