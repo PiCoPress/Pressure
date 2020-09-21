@@ -1,4 +1,5 @@
-import press.*;
+package Pressure;
+import Pressure.press.*;
 
 public class test {
 

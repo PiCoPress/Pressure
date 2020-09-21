@@ -1,6 +1,6 @@
-package press;
+package Pressure.press;
 
-import press.cal.*;
+import Pressure.press.cal.*;
 
 public class Pressure {
 	private String Number = "";
